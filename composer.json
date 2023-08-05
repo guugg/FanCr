@@ -1,0 +1,33 @@
+{
+    "name": "guugg/fancr",
+    "description": "一个精美的word press主题，从梦幻中构建的。",
+    "autoload": {
+        "psr-4": {
+            "Fan\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "guugg",
+            "email": "q.kent@foxmail.com"
+        }
+    ],
+    "require": {
+        "liborm85/composer-vendor-cleaner": "^1.7"
+    },
+    "extra": {
+        "dev-files": {
+            "/": [
+                "*.md"
+            ]
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "liborm85/composer-vendor-cleaner": true
+        },
+        "dev-files": {
+            "remove-empty-dirs": false
+        }
+    }
+}

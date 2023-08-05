@@ -1,0 +1,47 @@
+{
+  "_modulepreload-polyfill-3cfb730f.js": {
+    "file": "assets/modulepreload-polyfill-3cfb730f.js"
+  },
+  "index.css": {
+    "file": "assets/index-19afe493.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "css": [
+      "assets/index-19afe493.css"
+    ],
+    "file": "assets/min-007cb7f7.js",
+    "imports": [
+      "_modulepreload-polyfill-3cfb730f.js"
+    ],
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "vue/assets/vite.svg": {
+    "file": "assets/vite-4a748afd.svg",
+    "src": "vue/assets/vite.svg"
+  },
+  "vue/assets/vue.svg": {
+    "file": "assets/vue-5532db34.svg",
+    "src": "vue/assets/vue.svg"
+  },
+  "vue/main.css": {
+    "file": "assets/main-78db0f12.css",
+    "src": "vue/main.css"
+  },
+  "vue/main.ts": {
+    "assets": [
+      "assets/vite-4a748afd.svg",
+      "assets/vue-5532db34.svg"
+    ],
+    "css": [
+      "assets/main-78db0f12.css"
+    ],
+    "file": "assets/vue-0d832651.js",
+    "imports": [
+      "_modulepreload-polyfill-3cfb730f.js"
+    ],
+    "isEntry": true,
+    "src": "vue/main.ts"
+  }
+}
