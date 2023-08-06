@@ -8,7 +8,7 @@ get_header();
         <p class="text-base ...">The quick brown fox ...</p>
         <p class="text-lg ...">The quick brown fox ...</p>
         <p class="text-xl ...">The quick brown fox ...</p>
-        <p class="text-2xl ...">Vite + Vue入门WordPress主题 ...</p>
+        <p class="text-2xl ...">Vite + Vue + WordPress入门主题 ...</p>
     </div>
     <div id="app"></div>
 </main>

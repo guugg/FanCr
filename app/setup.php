@@ -1,7 +1,7 @@
 <?php
 
 // 是否为开发环境  true  false
-define('IS_VITE_DEVELOPMENT', true);
+define('IS_VITE_DEVELOPMENT', false);
 define('VITE_SERVER', 'http://localhost:3100');
 //define
 define('DIST_DEF', 'assets');
